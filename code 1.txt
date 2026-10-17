@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Name: Jyoti Pandhare\n");
+    printf("Department: Robotics and Automation\n");
+    printf("Year: Second Year\n");
+
+    return 0;
+}
